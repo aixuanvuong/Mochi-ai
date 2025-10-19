@@ -1,8 +1,0 @@
-{
-  "name": "Mochi AI 1",
-  "description": "An interactive, minimalist AI assistant featuring an expressive Dasai Mochi character. Users can interact with the AI using their voice and receive spoken responses, creating a lively and engaging experience with customizable animations.",
-  "requestFramePermissions": [
-    "microphone",
-    "geolocation"
-  ]
-}
